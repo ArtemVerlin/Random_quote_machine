@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random_quote_machine/static/css/main.d2e1061f.css",
+    "main.js": "/Random_quote_machine/static/js/main.424224b7.js",
+    "static/media/twitter.svg": "/Random_quote_machine/static/media/twitter.0407223bb7bca83e1349f743cc8849a2.svg",
+    "index.html": "/Random_quote_machine/index.html",
+    "static/media/tumblr.svg": "/Random_quote_machine/static/media/tumblr.0d7521159613fce6076d5159db671b37.svg",
+    "main.d2e1061f.css.map": "/Random_quote_machine/static/css/main.d2e1061f.css.map",
+    "main.424224b7.js.map": "/Random_quote_machine/static/js/main.424224b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e1061f.css",
+    "static/js/main.424224b7.js"
+  ]
+}
